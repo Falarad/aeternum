@@ -1,0 +1,13 @@
+{
+  "itemGroup.aeternum": "Example Mod Tab",
+  "block.aeternum.example_block": "Example Block",
+  "item.aeternum.example_item": "Example Item",
+
+  "aeternum.configuration.title": "Aeternum Configs",
+  "aeternum.configuration.section.aeternum.common.toml": "Aeternum Configs",
+  "aeternum.configuration.section.aeternum.common.toml.title": "Aeternum Configs",
+  "aeternum.configuration.items": "Item List",
+  "aeternum.configuration.logDirtBlock": "Log Dirt Block",
+  "aeternum.configuration.magicNumberIntroduction": "Magic Number Text",
+  "aeternum.configuration.magicNumber": "Magic Number"
+}
